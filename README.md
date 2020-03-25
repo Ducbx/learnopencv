@@ -1,3 +1,5 @@
+Ducbx checked
+
 # learnopencv
 Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenCV.com](https://www.LearnOpenCV.com)
 
